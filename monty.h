@@ -63,4 +63,5 @@ void print_pt(stack_t **h, unsigned int count);
 void _extract(stack_t **h, unsigned int c);
 void _exchange(stack_t **h, unsigned int c);
 void _insert(stack_t **h, unsigned int c);
+void _nope(stack_t **h, unsigned int c);
 #endif
