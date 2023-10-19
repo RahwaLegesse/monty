@@ -15,6 +15,7 @@ int exe_cute(char *con, stack_t **stack, unsigned int count, FILE *fd)
 				{"pall", pall_fun},
 				{"pop", _extract},
 				{"swap", _exchange},
+				{"add", _insert},
 				{NULL, NULL}
 				};
 	unsigned int j = 0;
