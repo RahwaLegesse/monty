@@ -60,4 +60,5 @@ void queue_f(stack_t **h, unsigned int c);
 void queue_add(stack_t **h, int num);
 void pall_fun(stack_t **h, unsigned int c);
 void print_pt(stack_t **h, unsigned int count);
+void _extract(stack_t **h, unsigned int c);
 #endif
