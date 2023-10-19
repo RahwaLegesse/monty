@@ -8,7 +8,7 @@ void _insert(stack_t **h, unsigned int c)
 {
 	stack_t *head;
 	int length = 0;
-        int tmp;
+	int tmp;
 
 	head = *h;
 	while (head)
